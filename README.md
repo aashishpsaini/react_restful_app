@@ -1,3 +1,6 @@
+Consuming a RESTful API in React
+A simple implementation on how to use a RESTful API in React.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
